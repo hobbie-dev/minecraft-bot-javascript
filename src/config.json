@@ -1,0 +1,29 @@
+{
+    "token": "SEU_TOKEN",
+    "clientID": "ID_DO_BOT",
+    "guildID": "ID_DO_SERVIDOR",
+    "cmdChannel": "ID_DO_CANAL_DE_COMANDOS",
+
+    "ticketIcon": "https://cdn.discordapp.com/attachments/933542441355706469/1102687778376011937/hsc.png",
+    "parentAdvanced": "ID_DA_CATEGORIA_PARA_TICKETS_AVANÇADOS",
+    "parentBasic": "ID_DA_CATEGORIA_PARA_TICKETS_BÁSICOS",
+    "ticketChannel": "ID_DO_CANAL_PARA_ABRIR_TICKET",
+    "roleTicket": "ID_DO_CARGO_DE_ACESSO_AOS_TICKETS",
+    "roleBot": "ID_DO_CARGO_DO_BOT",
+    "logsTicket": "ID_DO_CANAL_DE_LOGS_DO_TICKET",
+
+    "colorSuccess": "#32CD32",
+    "colorError": "#F73F3F",
+    "colorOther": "#8D1A1A",
+    "colorSay": "#8D1A1A",
+
+    "serverIcon": "https://cdn.discordapp.com/attachments/933542441355706469/1102687940267737289/logo_hsc.png",
+    "displayIP": "ipdoservidor.com",
+    "serverName": "Nome do servidor",
+    "serverVersion": "1.8.x",
+
+    "suggestionChannelID": "ID_DO_CANAL_DE_SUGESTÕES",
+    "footerText": "Atenciosamente, Seu Servidor",
+
+    "minigameName": "Factions Space"
+}
