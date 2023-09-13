@@ -2,6 +2,7 @@ const { Discord, EmbedBuilder } = require("discord.js");
 const { SlashCommandBuilder } = require('@discordjs/builders');
 const { Modal, TextInputComponent, SelectMenuComponent, showModal, getTextInputValue, ModalSubmit } = require('discord-modals');
 const config = require('../config.json');
+const embeds = require('./utils/embeds.js');
 
 module.exports = {
     data: new SlashCommandBuilder()
